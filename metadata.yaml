@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34542'
     url: http://www.gutenberg.org/2009/agents/34542
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19327#Reize-in-Taka--Opper-Nubi--De-Aarde-en-haar-Volken-1873
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2006-09-19'
 gutenberg_type: Text
